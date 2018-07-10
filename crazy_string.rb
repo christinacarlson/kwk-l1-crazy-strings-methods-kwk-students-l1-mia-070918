@@ -1,4 +1,5 @@
 
-
-puts crazy_strings(a,b).reverse
+def  crazy_strings(a,b)
+  
+end
 
