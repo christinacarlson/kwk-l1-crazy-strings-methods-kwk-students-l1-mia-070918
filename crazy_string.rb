@@ -1,5 +1,5 @@
 
-def  crazy_strings(a,b)
+def  crazy_strings(a)
  puts a
 end
 
