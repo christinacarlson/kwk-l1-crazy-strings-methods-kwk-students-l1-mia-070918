@@ -1,5 +1,5 @@
 
 def  crazy_strings(a,b)
- puts a 
+ puts a +b
 end
 
