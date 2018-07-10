@@ -1,5 +1,5 @@
 
-def  crazy_strings(7)
+def  crazy_strings
  puts 7
 end
 
